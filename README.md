@@ -1,1 +1,1 @@
-# lg2a2
+# Repositório para tarefas de Lógica da Programação
